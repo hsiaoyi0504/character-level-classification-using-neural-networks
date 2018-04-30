@@ -2,3 +2,5 @@ For obfuscated text, most of the NLP domain knowledge such as Word2Vec, POS-tagg
 As a matter of fact, neural networks come in handy to create an end-to-end module that learns the embedding, feature extraction and classification.
 
 ### Please refer to _README.pdf_ for details and experiment results
+
+A similar dataset for this task can be found [here (kaggle)](https://www.kaggle.com/alaeddineayadi/obfuscated-multiclassification).
